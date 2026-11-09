@@ -3,7 +3,7 @@
 Text-only domain adaptation for low-resource medical ASR using Shallow Fusion
 and the Density Ratio Approach (DRA), applied to Hausa.
 
-📄 **Paper**: [arXiv link - TBD]
+📄 **Paper**: [Preprint link](https://arxiv.org/html/2611.05744v1)
 🤗 **Model**: [huggingface.co/OcheAnkeli/hausa-medical-asr](https://huggingface.co/OcheAnkeli/hausa-medical-asr)
 🗂️ **Evaluation data**: Participant recordings are not publicly released.
 
